@@ -4,7 +4,7 @@
 Sou apaixonado por computador e programacão. :computer:
 
 
- <br/> :computer: Curso ADS no IF Baiano;
+ <br/> 📒 Curso ADS no IF Baiano;
  <br/> :computer: As linguagens que mais gosto e estudo são Java e Python. 
  <br/> 👱‍♂️ Sobre mim: Curto tecnologias, jogo fps, e curto edicão e producão de vídeos.
  <br/> :email: Entre em contato comigo: 
