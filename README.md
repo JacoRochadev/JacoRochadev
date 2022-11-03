@@ -5,7 +5,7 @@ Sou apaixonado por computador e programacão. :computer:
 
 
  <br/> 📒 Curso ADS no IF Baiano;
- <br/> :computer: As linguagens que mais gosto e estudo são Delphi, Dart. 
+ <br/> :computer: As linguagens que mais gosto é Dart, utilizando Flutter. 
  <br/> 👱‍♂️ Sobre mim: Curto tecnologias e edicão e producão de vídeos.
  <br/> :email: Entre em contato comigo: 
  <br/>
