@@ -14,9 +14,10 @@ Sou apaixonado por computador e programacão. :computer:
 
 Projetos profissionais em flutter:
 dupay
-C:\app_dupay\sellos-dupay-app
 https://github.com/jsellos/sellos-dupay-app
 
 loja_virtual
-C:\Users\jacof\OneDrive\Desktop\tcc\loja_virtual
 https://github.com/JacoRochadev/loja_virtual
+
+solarme
+https://github.com/heitorklaus/solardino2023
